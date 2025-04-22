@@ -50,7 +50,7 @@
 ### 📫 Let's Connect
 
 - 📧 **Email:** hasnainahmedofficial@gmail.com  
-- 🌐 **Portfolio:** [Coming Soon]  
+- 🌐 **Portfolio:** Coming Soon
 - 💼 **LinkedIn:** [linkedin.com/in/hasnainahmed](https://www.linkedin.com/in/hasnaynnn19)  
 - 🛠️ **Projects & Code:** [github.com/HasnainAhmed](https://github.com/hhaassnnaaiinn)  
 
