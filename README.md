@@ -49,10 +49,10 @@
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** hasnainahmedofficial@gmail.com  
+- 📧 **Email:** hasnainahme20000@gmail.com  
 - 🌐 **Portfolio:** Coming Soon
-- 💼 **LinkedIn:** [linkedin.com/in/hasnainahmed](https://www.linkedin.com/in/hasnaynnn19)  
-- 🛠️ **Projects & Code:** [github.com/HasnainAhmed](https://github.com/hhaassnnaaiinn)  
+- 💼 **LinkedIn:** [linkedin.com/in/hasnaynnn19](https://www.linkedin.com/in/hasnaynnn19)  
+- 🛠️ **Projects & Code:** [github.com/hhaassnnaaiinn](https://github.com/hhaassnnaaiinn)  
 
 ---
 
