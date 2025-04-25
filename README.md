@@ -49,10 +49,9 @@
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** hasnainahme20000@gmail.com  
+- 📧 **Email:** hasnainahmed20000@gmail.com  
 - 🌐 **Portfolio:** Coming Soon
 - 💼 **LinkedIn:** [linkedin.com/in/hasnaynnn19](https://www.linkedin.com/in/hasnaynnn19)  
-- 🛠️ **Projects & Code:** [github.com/hhaassnnaaiinn](https://github.com/hhaassnnaaiinn)  
 
 ---
 
