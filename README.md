@@ -50,7 +50,7 @@
 ### 📫 Let's Connect
 
 - 📧 **Email:** hasnainahmed20000@gmail.com  
-- 🌐 **Portfolio:** Coming Soon
+- 🌐 **Portfolio:** [hasnain-ahmed.vercel.app](https://hasnain-ahmed.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/hasnaynnn19](https://www.linkedin.com/in/hasnaynnn19)  
 
 ---
